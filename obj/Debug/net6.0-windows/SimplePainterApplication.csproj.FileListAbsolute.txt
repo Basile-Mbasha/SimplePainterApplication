@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\bin\Debug\net6.0-windows\SimplePainterApplication.exe
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\bin\Debug\net6.0-windows\SimplePainterApplication.deps.json
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\bin\Debug\net6.0-windows\SimplePainterApplication.runtimeconfig.json
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\bin\Debug\net6.0-windows\SimplePainterApplication.dll
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\bin\Debug\net6.0-windows\SimplePainterApplication.pdb
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.Form1.resources
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.dll
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\refint\SimplePainterApplication.dll
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.pdb
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\SimplePainterApplication.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Advanced_Programming_Techniques\code-examples\SimplePainterApplication\obj\Debug\net6.0-windows\ref\SimplePainterApplication.dll
